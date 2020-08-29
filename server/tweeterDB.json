@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "anapetrescu011@gmail.com",
+      "password": "aa",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "tweet": "Ana are mere",
+      "id": 1
+    },
+    {
+      "tweet": "Ana are mere si pere",
+      "user_id": "[object Object]",
+      "id": 2
+    },
+    {
+      "tweet": "aa",
+      "user_id": "[object Object]",
+      "id": 3
+    },
+    {
+      "tweet": "aaa",
+      "user_id": "1",
+      "id": 4
+    },
+    {
+      "tweet": "ceva",
+      "user_id": "1",
+      "id": 5
+    },
+    {
+      "tweet": "ceva2",
+      "user_id": "1",
+      "id": 6
+    },
+    {
+      "tweet": "aaaaaaaaa",
+      "user_id": "1",
+      "id": 7
+    },
+    {
+      "tweet": "aaaaaaaaaaaaaaaaaa",
+      "user_id": "1",
+      "id": 8
+    },
+    {
+      "tweet": "cevaceva",
+      "user_id": "1",
+      "id": 9
+    },
+    {
+      "tweet": "cevaaaaaa",
+      "user_id": "1",
+      "id": 10
+    },
+    {
+      "tweet": "1",
+      "user_id": "1",
+      "id": 11
+    },
+    {
+      "tweet": "2",
+      "user_id": "1",
+      "id": 12
+    }
+  ]
+}
